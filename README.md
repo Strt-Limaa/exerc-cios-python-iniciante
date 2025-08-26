@@ -1,4 +1,5 @@
 ## Python Exercises for Beginners | Exercícios de Python para Iniciantes
+(exercises in portuguese)/(exercícios em português)
 
 Welcome!  
 This repository contains beginner-friendly Python exercises.  
