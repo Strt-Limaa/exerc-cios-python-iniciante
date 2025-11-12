@@ -23,6 +23,9 @@ Cada arquivo traz uma breve explicação sobre o tema do exercício e a resoluç
 - Todas as soluções foram feitas de forma independente, baseadas em desafios curtos do YouTube.
 - Este repositório serve como registro pessoal da minha prática e evolução como dev.
 
+   No geral, não tive dificuldades extremas, foi algo simples e fácil, estou aprendendo.
+   Overall, I didn't have any extreme difficulties; it was simple and easy. I'm learning.
+
 ## Structure | Estrutura
 
 - Each file contains:  
